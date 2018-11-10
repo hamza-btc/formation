@@ -4,7 +4,7 @@
 
 // center un element avec flex_box//
 
- display: flex;
+    display: flex;
     align-items: center;
     justify-content: left;
 
